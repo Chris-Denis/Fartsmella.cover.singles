@@ -22,6 +22,7 @@ Cons:
 
 🎧 Designed for a seamless user experience.
 
+Soundboard was built with simplicity and usability in mind. Instead of navigating through a complicated menu, you can quickly access wonderful sounds and play them whenever the moment is right. The application combines a polished user interface with reliable performance to deliver vibes for everyone.
 
 
 
