@@ -24,5 +24,10 @@ Cons:
 
 Soundboard was built with simplicity and usability in mind. Instead of navigating through a complicated menu, you can quickly access wonderful sounds and play them whenever the moment is right. The application combines a polished user interface with reliable performance to deliver vibes for everyone.
 
+Contributing:
 
+Feature requests and bug reports are totally welcome. Feel free to open an issue or submit a pull request to help improve the project.
 
+Support:
+
+If you enjoy the project, consider giving it a little golden ⭐ on GitHub.
