@@ -11,7 +11,7 @@ This is the modern and intuitive application designed for entertainment, social 
 
 Whether you are looking to add the perfect reaction to a conversation, create memorable moments with friends, or simply have fun with a collection of high-quality sound effects, Fartsmella.cover.singles provides a smooth and enjoyable experience.
 
-Cons:
+Pros:
 
 📣 Play multiple sound effects instantly;
 
