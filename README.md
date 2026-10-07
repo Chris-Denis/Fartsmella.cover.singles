@@ -1,4 +1,3 @@
-<img width="19168" height="25557" alt="1-2" src="https://github.com/user-attachments/assets/1c90479d-8cf1-44ca-a1e4-af1e651796c6" />
 # Fartsmella.cover.singles
 
 The Soundboard PWA Application
@@ -32,3 +31,10 @@ Feature requests and bug reports are totally welcome. Feel free to open an issue
 Support:
 
 If you enjoy the project, consider giving it a little golden ⭐ on GitHub.
+
+<img width="6030" height="8040" alt="14-3-github" src="https://github.com/user-attachments/assets/694c36a3-b1a1-4f14-b3f3-cf51557597a3" />
+
+
+
+
+
