@@ -32,7 +32,8 @@ Support:
 
 If you enjoy the project, consider giving it a little golden ⭐ on GitHub.
 
-<img width="6030" height="8040" alt="14-3-github" src="https://github.com/user-attachments/assets/694c36a3-b1a1-4f14-b3f3-cf51557597a3" />
+<img width="5000" height="6667" alt="1000004847" src="https://github.com/user-attachments/assets/983b803d-a6dd-4b6b-97cf-48c08eed11ad" />
+
 
 
 
