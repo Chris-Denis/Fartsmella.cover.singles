@@ -34,6 +34,7 @@ If you enjoy the project, consider giving it a little golden ⭐ on GitHub.
 
 <img width="5000" height="6667" alt="1000004847" src="https://github.com/user-attachments/assets/983b803d-a6dd-4b6b-97cf-48c08eed11ad" />
 
+
 link to Pinterest: https://pinterest.com/ChrisDenisDev
 
 
